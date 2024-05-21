@@ -1,4 +1,4 @@
-# Proyects-
+# Proyects Javascript • CSS • React
 Proyectos realizados
 ---
 - Maquetado • HTML - CSS
